@@ -1,0 +1,3 @@
+import llmbenchmark
+
+llmbenchmark.train()
